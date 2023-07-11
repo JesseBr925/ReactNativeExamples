@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dyIxALPrGJC8Z97LmIEONhjYyC368u8tsUxrvivORc8=",
+  "Source": "DestinationBackend",
+  "BasePath": "_content/DestinationBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
