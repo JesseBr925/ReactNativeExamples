@@ -30,3 +30,35 @@ C:\Users\Jesse\OneDrive\Documents\Github Repositories\ReactNativeExamples\ReactN
 C:\Users\Jesse\OneDrive\Documents\Github Repositories\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.pdb
 C:\Users\Jesse\OneDrive\Documents\Github Repositories\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.genruntimeconfig.cache
 C:\Users\Jesse\OneDrive\Documents\Github Repositories\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\ref\DestinationBackend.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\appsettings.json
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\DestinationBackend.exe
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\DestinationBackend.deps.json
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\DestinationBackend.runtimeconfig.json
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\DestinationBackend.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\DestinationBackend.pdb
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.csproj.AssemblyReference.cache
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.AssemblyInfoInputs.cache
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.AssemblyInfo.cs
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\staticwebassets\msbuild.DestinationBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\staticwebassets\msbuild.build.DestinationBackend.props
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DestinationBackend.props
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DestinationBackend.props
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\scopedcss\bundle\DestinationBackend.styles.css
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.csproj.CopyComplete
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\refint\DestinationBackend.dll
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.pdb
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\DestinationBackend.genruntimeconfig.cache
+C:\Users\Jesse\Documents\GitHub\ReactNativeExamples\ReactNativeDotNetWebAPI\DirectionsApplication\DestinationBackend\DestinationBackend\obj\Debug\net6.0\ref\DestinationBackend.dll
