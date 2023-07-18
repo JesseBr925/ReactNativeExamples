@@ -100,7 +100,7 @@ function App(): JSX.Element {
               style={{
                 backgroundColor: isDarkMode ? Colors.black : Colors.white,
               }}>
-              <AddressListFetch />
+              <AddressListFetch></AddressListFetch>
             </View>
           </ScrollView>
         </View>
