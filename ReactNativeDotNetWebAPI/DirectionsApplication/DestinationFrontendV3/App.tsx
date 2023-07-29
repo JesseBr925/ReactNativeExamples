@@ -10,7 +10,7 @@ import AddressListStatic from './components/AddressListStatic';
 import AddressListFetch from './components/AddressListFetch';
 import Footer from './components/Footer';
 import HeaderNavigation from './components/HeaderNavigation';
-import type {PropsWithChildren} from 'react';
+import type { PropsWithChildren } from 'react';
 import {
   SafeAreaView,
   ScrollView,
@@ -36,7 +36,7 @@ type SectionProps = PropsWithChildren<{
   title: string;
 }>;
 
-function Section({children, title}: SectionProps): JSX.Element {
+function Section({ children, title }: SectionProps): JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
   return (
     <View style={styles.sectionContainer}>
@@ -84,15 +84,16 @@ function App(): JSX.Element {
         barStyle={isDarkMode ? 'light-content' : 'dark-content'}
         backgroundColor={backgroundStyle.backgroundColor}
       />
-      <View style={{flex: 1}}>
+      <View style={{ flex: 1 }}>
         <HeaderNavigation />
       </View>
-      <View style={{flex: 6.5}}>
-        <Section title="Project Overview">
-          This application loads addresses from a .NET WebAPI service that runs
-          locally. You can find that in a seperate folder on the repo.
-        </Section>
-        <View style={{height:"100%"}}>
+      <View style={{ flex: 6.5 }}>
+        <ScrollView>
+          <Section title="Project Overview">
+            This application loads addresses from a .NET WebAPI service that runs
+            locally. You can find that in a seperate folder on the repo.
+          </Section>
+          <View style={{ height: "100%" }}>
 
             <View
               style={{
@@ -100,10 +101,11 @@ function App(): JSX.Element {
               }}>
               <AddressListFetch></AddressListFetch>
             </View>
-          
-        </View>
+
+          </View>
+        </ScrollView>
       </View>
-      <View style={{flex: 1}}>
+      <View style={{ flex: 1 }}>
         <Footer />
       </View>
     </SafeAreaView>
@@ -112,15 +114,15 @@ function App(): JSX.Element {
 
 const styles = StyleSheet.create({
   sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
+    marginTop: 4,
+    paddingHorizontal: 16,
   },
   sectionTitle: {
     fontSize: 24,
     fontWeight: '600',
   },
   sectionDescription: {
-    marginTop: 8,
+    marginTop: 0,
     fontSize: 18,
     fontWeight: '400',
   },

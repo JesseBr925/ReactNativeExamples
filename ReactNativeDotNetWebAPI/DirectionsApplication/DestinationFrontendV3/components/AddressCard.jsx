@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
-import { View, Text,Button, StyleSheet, Dimensions} from 'react-native';
+import { View, Text, Button, StyleSheet, Dimensions } from 'react-native';
 import DisplayLatLng from "./DisplayLatLng";
-import MapView, { MAP_TYPES, PROVIDER_DEFAULT } from 'react-native-maps';
-
+import MapView, { Marker, MAP_TYPES, PROVIDER_DEFAULT } from 'react-native-maps';
 const AddressCard = ({ address }) => {
-  const {width, height} = Dimensions.get('window');
+  const { width, height } = Dimensions.get('window');
 
   const ASPECT_RATIO = width / height;
   const LATITUDE = parseFloat(address.latitude);
@@ -14,32 +13,38 @@ const AddressCard = ({ address }) => {
 
 
   const [region, setRegion] = useState({
-    latitude: 90,
-    longitude: 30,
+    latitude: address.latitude,
+    longitude: address.longitude,
     latitudeDelta: 0.04,
     longitudeDelta: 0.04,
   });
 
   return (
     <View style={styles.container}>
-      <View>
+      <View style={{ alignItems: 'center' }}>
         <MapView
           provider={PROVIDER_DEFAULT}
           mapType={MAP_TYPES.SATELLITE}
           style={{ height: 300, width: 300, margin: 10, padding: 10 }}
           initialRegion={{
-            latitude: region.latitude,
-            longitude: region.longitude,
+            latitude: address.latitude,
+            longitude: address.longitude,
             latitudeDelta: 0.001,
             longitudeDelta: 0.001,
           }}
-        />
+        >
+          <Marker
+            coordinate={{
+              latitude: address.latitude,
+              longitude: address.longitude,
+            }}
+          />
+        </MapView>
       </View>
 
       <Text style={styles.text}>{address.address1}</Text>
       {address.address2 != '' ? <Text style={styles.text}>{address.address2}</Text> : null}
       <Text style={styles.text}>{address.city} {address.state} {address.zipcode}</Text>
-      <Text style={styles.text}>{region.latitude}, {region.longitude}</Text>
 
     </View>
   );

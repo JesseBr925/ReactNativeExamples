@@ -38,7 +38,7 @@ namespace DestinationBackend.Controllers
         public string Longitude { get; set; }
         public string Latitude { get; set; }
 
-        public Address(string _Address1, string _Address2, string _City, string _State, string _Country, string _Zipcode, string _Longitude, string _Latitude) { 
+        public Address(string _Address1, string _Address2, string _City, string _State, string _Country, string _Zipcode, string _Latitude, string _Longitude ) { 
             Address1 = _Address1;
             Address2 = _Address2;
             City = _City;              
