@@ -1,0 +1,1 @@
+Contains an application that gives fetches addresses stored in the .NET Backend, and maps and displays them using native mapping.  Currently targets iOS but can be easily modified by adding a Google Maps API Key to the react-native-maps.
