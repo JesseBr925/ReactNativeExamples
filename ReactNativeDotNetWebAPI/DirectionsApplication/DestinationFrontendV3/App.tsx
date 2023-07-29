@@ -87,22 +87,20 @@ function App(): JSX.Element {
       <View style={{flex: 1}}>
         <HeaderNavigation />
       </View>
-      <View style={{flex: 8}}>
+      <View style={{flex: 6.5}}>
         <Section title="Project Overview">
           This application loads addresses from a .NET WebAPI service that runs
           locally. You can find that in a seperate folder on the repo.
         </Section>
-        <View>
-          <ScrollView
-            contentInsetAdjustmentBehavior="automatic"
-            style={backgroundStyle}>
+        <View style={{height:"100%"}}>
+
             <View
               style={{
                 backgroundColor: isDarkMode ? Colors.black : Colors.white,
               }}>
               <AddressListFetch></AddressListFetch>
             </View>
-          </ScrollView>
+          
         </View>
       </View>
       <View style={{flex: 1}}>

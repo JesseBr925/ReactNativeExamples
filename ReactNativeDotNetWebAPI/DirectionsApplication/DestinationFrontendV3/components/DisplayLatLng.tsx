@@ -24,8 +24,8 @@ class DisplayLatLng extends React.Component<any, any> {
 
     this.state = {
       region: {
-        latitude: LATITUDE,
-        longitude: LONGITUDE,
+        latitude: props.latitude,
+        longitude: props.longitude,
         latitudeDelta: LATITUDE_DELTA,
         longitudeDelta: LONGITUDE_DELTA,
       },

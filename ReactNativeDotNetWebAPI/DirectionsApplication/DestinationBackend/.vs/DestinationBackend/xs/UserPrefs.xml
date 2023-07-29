@@ -1,21 +1,17 @@
 ﻿<Properties StartupConfiguration="{37562DC8-AABC-4536-8BFA-A2F6152E7EA2}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DestinationBackend PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="DestinationBackend/Controllers/AddressesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DestinationBackend/Controllers/WeatherForecastController.cs">
     <Files>
-      <File FileName="DestinationBackend/Controllers/AddressesController.cs" Line="30" Column="1" />
+      <File FileName="DestinationBackend/Controllers/AddressesController.cs" Line="18" Column="35" />
       <File FileName="DestinationBackend/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="DestinationBackend/Program.cs" Line="30" Column="1" />
+      <File FileName="DestinationBackend/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DestinationBackend">
-            <Node name="DestinationBackend">
-              <Node name="Controllers">
+          <Node name="DestinationBackend" expanded="True">
+            <Node name="DestinationBackend" expanded="True">
+              <Node name="Controllers" expanded="True">
                 <Node name="WeatherForecastController.cs" selected="True" />
               </Node>
             </Node>
@@ -24,6 +20,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DestinationBackend PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
